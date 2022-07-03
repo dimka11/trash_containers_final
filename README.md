@@ -39,5 +39,7 @@ train_csv = pd.read_csv('../input/trash-containers/train_dataset_train/train.csv
 
 Тренировка, валидация включаются в Config (train, val параметры)
 
+По всем вопросам в tg: @dimkoss11
+
 
 
