@@ -13,3 +13,8 @@
 
 
 По загруженной фотографии необходимо определить, к какой категории относится снимок.
+
+
+Веса для инференса:
+
+https://drive.google.com/file/d/11OOHWWhYF0tn_X8_5q4IbTY2pOl-kVZT/view?usp=sharing
