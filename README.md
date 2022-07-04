@@ -11,7 +11,6 @@
 
 ● соответствующие всем необходимым условиям.
 
-
 По загруженной фотографии необходимо определить, к какой категории относится снимок.
 
 
@@ -21,13 +20,13 @@ https://drive.google.com/file/d/11OOHWWhYF0tn_X8_5q4IbTY2pOl-kVZT/view?usp=shari
 
 Блокнот обучения, инференс:
 
-trash-containers-cls-swin-final.ipynb
+[trash-containers-cls-swin-final.ipynb](https://github.com/dimka11/trash_containers_final/blob/main/trash-containers-cls-swin-final.ipynb)
 
 Только инференс:
 
-TBA
+[trash-containers-cls-inference-only.ipynb](https://github.com/dimka11/trash_containers_final/blob/main/trash-containers-cls-inference-only.ipynb)
 
-Сменить пути к папкам: в
+Сменить пути к папкам (в полном блокноте): в
 
 train_csv = pd.read_csv('../input/trash-containers/train_dataset_train/train.csv')
 
@@ -39,7 +38,8 @@ train_csv = pd.read_csv('../input/trash-containers/train_dataset_train/train.csv
 
 Тренировка, валидация включаются в Config (train, val параметры)
 
-По всем вопросам в tg: @dimkoss11
+
+По всем вопросам в tg: **@dimkoss11**
 
 
 
